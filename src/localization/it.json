@@ -1,0 +1,20 @@
+{
+    "editor": {
+        "invert_position": "Inverti il valore della posizione",
+        "invert_position_label": "Inverti lo stato Aperto / Chiuso",
+        "disable_position": "Nascondi lo slider della posizione",
+        "rtl_position": "Scambia la direzione dello slider della posizione",
+        "gruppo": "Gruppo",
+        "title_template": "Titolo del template",
+        "position_template": "Posizione etichetta del template",
+        "move_down_button": "Bottone dell'azione Abbassa",
+        "move_stop_button": "Bottone dell'azione Stop",
+        "move_up_button": "Bottone dell'azione Alza",
+        "preset_buttons": "Bottoni dei Preset",
+        "move_left": "Sposta a sinistra",
+        "move_right": "Sposta a destra",
+        "move_up_button_expandable": "Bottone dell'azione custom Alza",
+        "move_stop_button_expandable": "Bottone dell'azione custom Stop",
+        "move_down_button_expandable": "Bottone dell'azione custom Abbassa"
+    }
+}
